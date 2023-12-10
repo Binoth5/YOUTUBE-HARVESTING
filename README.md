@@ -56,28 +56,32 @@ __Home Page__
 
 > About this Application and benefits of Youtube data harvesting
 
-!
+![Screenshot](https://github.com/your-username/repository-name/image-folder/screenshot.png)
+
 
 
 __Upload Page__
 
 > Upload Youtube channel's Identity Document to retrieve datas and store it in a MongoDB database.
 
-!
+![Screenshot](https://github.com/your-username/repository-name/image-folder/screenshot.png)
+
 
 
 __Migrate Page__
 
 > Insert the retrieved datas into SQL Data Warehouse 
 
-!
+![Screenshot](https://github.com/your-username/repository-name/image-folder/screenshot.png)
+
 
 
 __Analysis Page__
 
 > Select the Questions to insights of youtube channels
 
-!
+![Screenshot](https://github.com/your-username/repository-name/image-folder/screenshot.png)
+
 
 
 
