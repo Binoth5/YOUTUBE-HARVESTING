@@ -548,7 +548,8 @@ def main():
                 mysql_cursor.execute(query)
                 df = pd.DataFrame(mysql_cursor.fetchall(),columns=mysql_cursor.column_names)
                 st.write(df)
-            
+            mysql_cursor.close()
+            mysql_connection.close()
 if __name__ == '__main__':
     main()
     
