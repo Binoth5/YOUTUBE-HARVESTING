@@ -31,6 +31,24 @@ Streamlit application that allows users to access and analyze data from multiple
 | Plotly | Graphing library makes interactive, publication-quality graphs. |
 
 ## Approach :
+```mermaid
+graph TD;
+   A[Input YouTube Channel ID] --> B(Get Channel Data)
+    B --> C(Store Data in MongoDB)
+    C --> D[Upload to MongoDB]
+    D --> E(Select Channel for Migration)
+    E --> F(Migrate Data to SQL)
+    F --> G(Search and Retrieve Data from SQL)
+    G --> H(Display Data in Streamlit UI)
+```
+
+    A[Input YouTube Channel ID] --> B(Get Channel Data)
+    B --> C(Store Data in MongoDB)
+    C --> D[Upload to MongoDB]
+    D --> E(Select Channel for Migration)
+    E --> F(Migrate Data to SQL)
+    F --> G(Search and Retrieve Data from SQL)
+    G --> H(Display Data in Streamlit UI)
 
 
 ## User Interface 
