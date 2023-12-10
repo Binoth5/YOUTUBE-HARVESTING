@@ -48,14 +48,15 @@ __Home Page__
 
 > About this Application and benefits of Youtube data harvesting
 
-![Image Description](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11.png)
 
+![2023-12-11](https://github.com/Binoth5/YOUTUBE-HARVESTING/assets/153276019/f3321c1d-bcbc-444c-b57c-f0819d4b4b0b)
 
 __Upload Page__
 
 > Upload Youtube channel's Identity Document to retrieve datas and store it in a MongoDB database.
 
-![image](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11%20(1).png)
+
+![2023-12-11 (1)](https://github.com/Binoth5/YOUTUBE-HARVESTING/assets/153276019/71a247a4-6663-4eb1-a2fd-b0ce940fbd67)
 
 
 
@@ -63,16 +64,18 @@ __Migrate Page__
 
 > Insert the retrieved datas into SQL Data Warehouse 
 
-![image](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11%20(2).png)
 
+
+![2023-12-11 (2)](https://github.com/Binoth5/YOUTUBE-HARVESTING/assets/153276019/03dbdbd0-4d5a-44de-808c-4e86b2fca1be)
 
 
 __Analysis Page__
 
 > Select the Questions to insights of youtube channels
 
-![image](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11%20(3).png)
 
+
+![2023-12-11 (3)](https://github.com/Binoth5/YOUTUBE-HARVESTING/assets/153276019/03a00a6b-3bd4-44df-aaff-c7011e179844)
 
 
 
