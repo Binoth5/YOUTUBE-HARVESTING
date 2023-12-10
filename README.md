@@ -42,21 +42,13 @@ graph TD;
     G --> H(Display Data in Streamlit UI)
 ```
 
-    A[Input YouTube Channel ID] --> B(Get Channel Data)
-    B --> C(Store Data in MongoDB)
-    C --> D[Upload to MongoDB]
-    D --> E(Select Channel for Migration)
-    E --> F(Migrate Data to SQL)
-    F --> G(Search and Retrieve Data from SQL)
-    G --> H(Display Data in Streamlit UI)
-
 
 ## User Interface 
 __Home Page__
 
 > About this Application and benefits of Youtube data harvesting
 
-![Screenshot](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11.png)
+![image](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11.png)
 
 
 
@@ -64,7 +56,7 @@ __Upload Page__
 
 > Upload Youtube channel's Identity Document to retrieve datas and store it in a MongoDB database.
 
-![Screenshot](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11%20(1).png)
+![image](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11%20(1).png)
 
 
 
@@ -72,7 +64,7 @@ __Migrate Page__
 
 > Insert the retrieved datas into SQL Data Warehouse 
 
-![Screenshot](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11%20(2).png)
+![image](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11%20(2).png)
 
 
 
@@ -80,7 +72,7 @@ __Analysis Page__
 
 > Select the Questions to insights of youtube channels
 
-![Screenshot](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11%20(3).png)
+![image](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11%20(3).png)
 
 
 
