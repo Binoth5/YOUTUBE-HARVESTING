@@ -80,7 +80,7 @@ __Analysis Page__
 
 > Select the Questions to insights of youtube channels
 
-![Screenshot](https://github.com/your-username/repository-name/image-folder/screenshot.png)
+![Screenshot](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11%20(3).png)
 
 
 
