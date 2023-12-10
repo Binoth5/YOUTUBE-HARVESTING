@@ -64,7 +64,7 @@ __Upload Page__
 
 > Upload Youtube channel's Identity Document to retrieve datas and store it in a MongoDB database.
 
-![Screenshot]([https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11%20(1).png))
+![Screenshot](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11%20(1).png)
 
 
 
@@ -72,7 +72,7 @@ __Migrate Page__
 
 > Insert the retrieved datas into SQL Data Warehouse 
 
-![Screenshot](https://github.com/your-username/repository-name/image-folder/screenshot.png)
+![Screenshot](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11%20(2).png)
 
 
 
