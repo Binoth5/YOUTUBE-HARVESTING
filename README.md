@@ -48,8 +48,7 @@ __Home Page__
 
 > About this Application and benefits of Youtube data harvesting
 
-![image](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11.png)
-
+![Image Description](https://github.com/Binoth5/YOUTUBE-HARVESTING/blob/main/2023-12-11.png)
 
 
 __Upload Page__
