@@ -79,12 +79,6 @@ __Analysis Page__
 
 !
 
-__Visualization__
-
-> Visualization with Plotly charts and graphs to help users analyze the data.
-
-!
-
 
 
 ## Conclusion
